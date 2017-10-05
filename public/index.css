@@ -1,0 +1,30 @@
+.symbols {
+	background-color: #2e96ea;
+	width: 120px;
+	height: 900px;
+	text-align:center;
+}
+
+.panel {
+	background-color: #3e627e;
+	border-color: #3e627e ;
+	height: 900px;
+	width: 250px;
+
+}
+
+.symbols img{
+	width: 100px;
+	height: 100px;
+}
+
+.panel img{
+	width: 250px;
+	height: 100px;
+}
+
+
+.hold {
+	display: flex;
+	flex-direction: row;
+}
